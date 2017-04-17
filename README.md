@@ -17,4 +17,4 @@ Reference:
 
 1)Object Shape Recognition Using Wavelet Descriptors
 
-2)Learning 2D Shape M-odels
+2)Learning 2D Shape Models
