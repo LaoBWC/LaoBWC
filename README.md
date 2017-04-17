@@ -35,5 +35,8 @@ Week 4 (3.6-3.12)
 Week 5 （3.13-3.19）
 
 本周进度：
-![img](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1492428393549&di=d9b9b2c8327109ea7052116a8eb8ac3c&imgtype=0&src=http%3A%2F%2Fpic48.nipic.com%2Ffile%2F20140912%2F7487939_223919315000_2.jpg)
-
+~阅读文献：[1]Belongie S, Malik J, Puzicha J. Shape Matching and Object Recognition Using Shape Contexts. IEEE Transactions on Pattern Analysis &  Machine Intelligence, 2002, 24(4):509-522.
+         [2]Greg M, Serge B, Jitendra M. Efficient shape matching using shape contexts. IEEE Transactions Transactions on Pattern Analysis & Machine Intelligence, 2005, 27(11):1832-7.
+学习shape context相关知识。
+    图像的旋转、平移、轮廓和闭合曲线等因素有时候会限制形状匹配技术的发展，在这种情况下 Serge Belongie 等人提出了一种基于轮廓点集的,新的全局性的形状描述子:形状上下文（Shape Context）。物体的轮廓是具有感知意义的连续曲线，形状上下文分析是将选取的形状的轮廓能够用很多点的集合来表示,这些点可能是形状内部轮廓点或者是外部轮廓上的点，这些点没必要是一些特殊点例如曲率最大值或者拐点那样，在图像边缘检测的基础上，从边界得到点的集合，这些点可以用来表示形状。在离散的空间对向量进行分析凭借分布的位置描述形状,可以借用对数极坐标空间（Log-polar）来完成对向量的分布。对上述区域以圆心为中心进行编号，统计除了点的以外的轮廓点在各个区域的数量，把各个数字记录下来形成直方图，上述的直方图就可看作点的形状上下文。可以用相应数量的矩阵来存储轮廓点集的信息，那么这些矩阵就可以表达图像的轮廓信息。如下图所示：
+    ![img]()
