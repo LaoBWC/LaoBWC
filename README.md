@@ -22,6 +22,7 @@ Reference:
 Week 4 (3.6-3.12)
 
 本周进度：
+
 ～下载课程网站上的project description，和youtube上的示例视频，了解关于2D and 3D shape recognition的相关内容。
 
 ～阅读了以下几篇关于shape recognition的survey。了解了shape recognition中使用的一些方法。
@@ -35,6 +36,7 @@ Week 4 (3.6-3.12)
 Week 5 （3.13-3.19）
 
 本周进度：
+
 ~阅读文献：[1]Belongie S, Malik J, Puzicha J. Shape Matching and Object Recognition Using Shape Contexts. IEEE Transactions on Pattern Analysis &  Machine Intelligence, 2002, 24(4):509-522.
          [2]Greg M, Serge B, Jitendra M. Efficient shape matching using shape contexts. IEEE Transactions Transactions on Pattern Analysis & Machine Intelligence, 2005, 27(11):1832-7.
 学习shape context相关知识。
