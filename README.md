@@ -68,11 +68,11 @@ week 6(3.20-3.26)
 （4）当计算完每个边界点的对数极坐标直方图后，在两个形状点集之间循环计算匹配代价，接着用计算相似度距离，根据距离是否大于阈值来判断形状的类别。
 实验结果图如下：
 
-![img](http://wx1.sinaimg.cn/mw1024/bfa72ceely1fept5t25h1j20pw04vmyh.jpg）
+![img](http://wx1.sinaimg.cn/mw1024/bfa72ceely1fept5t25h1j20pw04vmyh.jpg)
 
 距离计算结果
 
-![img](http://wx2.sinaimg.cn/mw1024/bfa72ceely1fept5yzl1zj20i606nmxq.jpg）
+![img](http://wx2.sinaimg.cn/mw1024/bfa72ceely1fept5yzl1zj20i606nmxq.jpg)
 
 识别结果
 
